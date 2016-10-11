@@ -2,7 +2,7 @@
 ## An Efficient Lattice-Based Cryptographic Hash Function
 
 This code is open-source software distributed under the terms of the GNU General Public Licence. 
-See the file [LICENSE](LICENCE) for complete details on licensing of this software.
+See the file [LICENSE](LICENSE) for complete details on licensing of this software.
 
 This repository contains the implementation of SWIFFT, 
 an efficient lattice-based cryptographic hash function, described in the paper 
