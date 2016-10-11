@@ -74,7 +74,7 @@ Calling
 ```
 
 reads 56-bytes from input, and repeatedly applies the compression function 
-(always to the same block of data) is chaining mode *n* times, and can be used for 
+(always to the same block of data) in chaining mode *n* times, and can be used for 
 timing measurements. You can run the tests on any `keyfile` and `input` containing at least 
 128 and 56 bytes. E.g., 
 
